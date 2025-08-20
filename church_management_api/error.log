@@ -1,0 +1,126 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/home/bennyjoez/Documents/church_management_app/church_management_api/church_management_api/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/home/bennyjoez/Documents/church_management_app/church_management_api/church_management_api/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+release default's connection None to its pool
+release default's connection None to its pool
+Watching for file changes with StatReloader
+release default's connection None to its pool
+release default's connection None to its pool
+Watching for file changes with StatReloader
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x773293145a80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x773293145a80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/dark_mode.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/js/theme.js
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+release default's connection None to its pool
+release default's connection None to its pool
+Watching for file changes with StatReloader
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x73b717245a80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x73b717245a80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+release default's connection None to its pool
+release default's connection None to its pool
+Watching for file changes with StatReloader
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x772c2b441a80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x772c2b441a80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+release default's connection None to its pool
+release default's connection None to its pool
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x7a052ce61440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x7a052ce61440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+Watching for file changes with StatReloader
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x7d8a67745a80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x7d8a67745a80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+release default's connection None to its pool
+release default's connection None to its pool
+release default's connection None to its pool
+release default's connection None to its pool
+release default's connection None to its pool
+release default's connection None to its pool
+release default's connection None to its pool
+release default's connection None to its pool
+release default's connection None to its pool
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x7650d7851440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x7650d7851440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x786cffd6d440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x786cffd6d440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x7bd140e65440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x7bd140e65440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x75b99c469440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x75b99c469440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x725740875440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x725740875440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x703cafd6d440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x703cafd6d440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x737666255440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x737666255440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+Watching for file changes with StatReloader
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x776a31645a80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x776a31645a80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x7b7177465440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x7b7177465440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x798f53471440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x798f53471440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+/home/bennyjoez/Documents/church_management_app/church_management_api/church_management_api/settings.py changed, reloading.
+release default's connection None to its pool
+Watching for file changes with StatReloader
+/home/bennyjoez/Documents/church_management_app/church_management_api/members/models.py changed, reloading.
+release default's connection None to its pool
+Watching for file changes with StatReloader
+/home/bennyjoez/Documents/church_management_app/church_management_api/member_roles/models.py changed, reloading.
+release default's connection None to its pool
+Watching for file changes with StatReloader
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x7a151616da80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x7a151616da80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x728e4dc85440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x728e4dc85440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+release default's connection None to its pool
+release default's connection None to its pool
+Watching for file changes with StatReloader
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x71fdc8371a80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x71fdc8371a80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+release default's connection None to its pool
+release default's connection None to its pool
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x701590a85440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x701590a85440; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
+Watching for file changes with StatReloader
+default's pool has been created, parameter: {'pre_ping': True, 'echo': False, 'timeout': 30, 'recycle': 300, 'pool_size': 50, 'max_overflow': 25}
+got default's connection <connection object at 0x7262e3045a80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> from its pool
+release default's connection <connection object at 0x7262e3045a80; dsn: 'user=doadmin password=xxx dbname=church_db host=127.0.0.1 port=5432 client_encoding=UTF8', closed: 0> to its pool
