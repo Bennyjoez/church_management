@@ -40,3 +40,8 @@ def edit_church(request, id):
 
   church.save()
   return JsonResponse({'id': id})
+
+def delete_church(request, id):
+  church = models.Church.objects.get(id=id)
+  church.delete()
+  return JsonResponse({'id': id})
